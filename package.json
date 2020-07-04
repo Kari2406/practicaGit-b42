@@ -1,0 +1,23 @@
+{
+  "name": "practicagit-b42",
+  "version": "1.0.0",
+  "description": "Práctica Git, Batch 42 Cinta roja",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kari2406/practicaGit-b42.git"
+  },
+  "keywords": [
+    "git",
+    "barch42"
+  ],
+  "author": "Karina Sánchez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kari2406/practicaGit-b42/issues"
+  },
+  "homepage": "https://github.com/Kari2406/practicaGit-b42#readme"
+}
